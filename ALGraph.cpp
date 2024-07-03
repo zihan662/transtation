@@ -121,7 +121,6 @@ bool ALGraph::ifCityExist (const std::string &city_name) {  // 查询城市是�
 
 }
 
-
 //查询城市编号，找到返回序号，找不到返回-1
 int ALGraph::searchCityNum (const string &city_name) {
     
